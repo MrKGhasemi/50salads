@@ -96,7 +96,7 @@ As shown in `class_distribution.txt`, the dataset suffers from a severe class im
       <td>94.57%</td>
     </tr>
     <tr class="overall-accuracy">
-      <th>accuracy</th>
+      <th>MEAN</th>
       <td>82.71%</td>
     </tr>
   </tbody>
