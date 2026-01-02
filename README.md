@@ -105,7 +105,7 @@ As shown in `class_distribution.txt`, the dataset suffers from a severe class im
 ## How to Use
 This project uses the five standard cross-validation splits for the 50Salads dataset.
 
-> **Note:** The `main.py` script has been refactored to accept command-line arguments. The original method of running via Jupyter Notebooks (`ViT_Split1_FT.ipynb`, etc.) is still possible but command-line usage is now fully supported.
+> **Note:** The `main.py` script has been refactored to accept command-line arguments. The original method of running via Jupyter Notebooks (`ViT_Split1_FT.ipynb`, etc.) is still possible but command-line usage is fully supported.
 
 ### 1. Setup
 
