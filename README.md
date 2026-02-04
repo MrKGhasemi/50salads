@@ -1,4 +1,4 @@
-# Fine-Tuning ViT for Action Recognition on the 50Salads Dataset/ 82.7 ACC
+# Action Recognition on the 50Salads Dataset/ 82.7 ACC
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
