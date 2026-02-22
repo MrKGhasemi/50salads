@@ -7,6 +7,7 @@ This repository contains the code for fine-tuning a pre-trained Vision Transform
 oversampling strategy and the use of Focal Loss, only by training `30` percent of the data.
 
 The Demo is Available on [Huggigface](https://huggingface.co/spaces/Factor054/Salads_Classifier_Demo).
+![Example](./assets/Example.png)
 
 ## Dataset: 50Salads
 
