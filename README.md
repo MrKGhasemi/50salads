@@ -3,7 +3,10 @@
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This repository contains the code for fine-tuning a pre-trained Vision Transformer (ViT-B/16) model for fine-grained action recognition on the **50Salads** dataset. The project demonstrates several techniques for handling significant class imbalance, including a manual oversampling strategy and the use of Focal Loss, only by training `30` percent of the data.
+This repository contains the code for fine-tuning a pre-trained Vision Transformer (ViT-B/16) model for fine-grained action recognition on the **50Salads** dataset. The project demonstrates several techniques for handling significant class imbalance, including a manual 
+oversampling strategy and the use of Focal Loss, only by training `30` percent of the data.
+
+The Demo is Available on [Huggigface](https://huggingface.co/spaces/Factor054/Salads_Classifier_Demo)
 
 ## Dataset: 50Salads
 
